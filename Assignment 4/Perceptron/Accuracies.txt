@@ -1,0 +1,81 @@
+Below are the different accuracies obtained by changing the values of the learning rate and cross-validation epoches
+
+1. epoch = 500
+   eta = 0.01
+   n = 2
+   Accuracy = 52.40%
+
+2. epoch = 1000
+   eta = 0.06
+   n = 2
+   Accuracy = 52.88%
+
+3. epoch = 1500
+   eta = 0.01
+   n = 2
+   Accuracy = 53.37%
+
+4. epoch = 2000
+   eta = 0.01
+   n = 2
+   Accuracy = 53.37%
+
+5. epoch = 500
+   eta = 0.01
+   n = 3
+   Accuracy = 40.10%
+
+6. epoch = 1000
+   eta = 0.01
+   n = 3
+   Accuracy = 40.10%
+
+7. epoch = 1500
+   eta = 0.01
+   n = 3
+   Accuracy = 40.58%
+
+8. epoch = 2000
+   eta = 0.01
+   n = 3
+   Accuracy = 40.58%
+
+9. epoch = 500
+   eta = 0.01
+   n = 4
+   Accuracy = 59.13%
+
+10. epoch = 9000
+    eta = 0.56
+    n = 4
+    Accuracy = 59.13%
+
+11. epoch = 500
+    eta = 0.01
+    n = 5
+    Accuracy = 56.59%
+
+12. epoch = 1000
+    eta = 0.6
+    n = 5
+    Accuracy = 56.59%
+
+13. epoch = 500
+    eta = 0.01
+    n = 6
+    Accuracy = 54.90%
+
+14. epoch = 5000
+    eta = 0.01
+    n = 6
+    Accuracy = 54.90%
+
+15. epoch = 500
+    eta = 0.01
+    n = 7
+    Accuracy = 54.19%
+
+16. epoch = 2000
+    eta = 0.01
+    n = 7
+    Accuracy = 54.19%
