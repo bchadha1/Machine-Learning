@@ -5,6 +5,7 @@ import re
 from operator import mul
 from functools import reduce
 
+
 word_regex = re.compile('[a-zA-Z\']+(?:-[a-zA-Z\']+)?')
 
 def Open_Emails(folder):
