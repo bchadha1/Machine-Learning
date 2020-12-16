@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine Learning course 
+Machine Learning course -  CS 580L
+Binghamton University
